@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Single menu item
+         Set id, icon and Title for each menu item
+    -->
+    <item android:id="@+id/chemistry"
+        android:icon="@drawable/chemistry"
+        android:title="Chemistry" />
+
+    <item android:id="@+id/maths"
+        android:icon="@drawable/maths"
+        android:title="Maths" />
+
+    <item android:id="@+id/physics"
+        android:icon="@drawable/physics"
+        android:title="Physics" />
+
+    <item android:id="@+id/science"
+        android:icon="@drawable/science"
+        android:title="Science" />
+
+
+</menu>
